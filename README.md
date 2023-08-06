@@ -10,7 +10,6 @@ Este é o repositório do projeto da disciplina de Álgebra Linear Computacional
 - **Análise de Componentes Principais**
 - **Interpretação SVD e Exemplo PCA**
 - **Sistemas Lineares: existência e unicidade**
-- **Prova 1**
 - **Sistemas triangulares. Eliminação de Gauss. Pivotação**
 - **Fatoração LU. Fatoração PA=LU**
 - **Estabilidade. Decomposição Cholesky. Uso de decomposição**
